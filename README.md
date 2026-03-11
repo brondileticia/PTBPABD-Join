@@ -1,2 +1,15 @@
-# PTBPABD-Join
+# Aula 4: Expressões JOIN e views
 Exercícios usando JOIN.
+
+- inner join;
+- left outer join
+- right outer join
+- full outer join
+
+> Arquivo: 
+
+## Questões
+1. Crie uma relação a partir da união das tabelas student e takes.
+2. Contar a quantidade de cursos realizados pelos alunos do departamento de Civil Eng. Ordenar de maneira descendente a quantidade de cursos associada aos alunos.
+3. Criar uma view chamada 'civil_eng_students' a partir da relação construída na Questão 2.
+
